@@ -1,3 +1,14 @@
+//Link do vídeo: https://www.youtube.com/watch?v=Stq_kC6Nds4
+/*
+BRUNO GUSTAVO SOMBRA CLAUDIO
+
+JOAO PAULO MENDES ANDRADE
+
+JOSE REGINALDO GONCALVES LOIOLA JUNIOR
+
+LUANA BRENNA NEGREIROS LUCAS
+*/
+
 #include <iostream>
 #include "Ser.h"
 #include "Animal.h"
