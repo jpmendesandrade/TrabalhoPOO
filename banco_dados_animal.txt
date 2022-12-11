@@ -1,0 +1,6 @@
+Canis rufus/1/6/10.7/1/Terrestre/aerobica/carnivoro/sexuada/coletiva
+CCanis rufus/2/3/13.5/1/Terrestre/aerobica/carnivoro/sexuada/coletiva
+CCCanis rufus/3/5/9/1/Terrestre/aerobica/carnivoro/sexuada/coletiva
+Canis simensis/4/2/12/1/Terrestre/aerobica/carnivoro/sexuada/coletiva
+Canis simensis/5/1/5.7/1/Terrestre/aerobica/carnivoro/sexuada/coletiva
+Canis simensis/6/4/10.7/1/Terrestre/aerobica/carnivoro/sexuada/coletiva
